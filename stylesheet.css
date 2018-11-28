@@ -1,34 +1,47 @@
-# home-run-record
-#MY frist ss
-   h1  {
+<!DOCTYPE html>
+<html>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width">
+  <title>JS Bin</title>
+  <style type="text/css">
+    h1  {
        text-align: center;
-       font-size: 12pt;
-       color: #000099;
+       font-size: 16pt;
+       color: black;
        margin-bottom: 5px;
        text-decoration: underline;
     }
     
     table {
-       margin: 5px;
-       width: 290px;
+       margin:100px;
+       width: 350px;
+      border:8px solid silver;
     }
     
     th {
-       padding: 3px;
+       padding: 7px;
     }
     
     td {
        padding-left: 8px;
        padding-right: 8px;
-       border: 1px solid #990000;
-       background-color: #ffffcc;
+       border: 7px solid Black;
+       background-color:red
     }
     
     #trHeader {
        text-decoration: underline;
-       color: #990000;
+       color: Black
+    }
+    #baseball {
+      width:250px;
     }
     
     .centerCell {
-       text-align: center;
+       text-align:center
     }
+ </style>
+</head>
+<body>
+  <div>
